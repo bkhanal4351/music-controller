@@ -1,4 +1,5 @@
-.music_controller/spotify/credentials.py
+**/credentials.py
 .node
 node_modules/
 __pycache__/
+music_controller/spotify/credentials.py
